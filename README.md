@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anbarasan
 - 👀 I’m interested in Artificial Inteligence and Machine Learning
-- 🌱 I’m currently learning about AI and ML
+- 🌱 I’m currently developing my skills in AI and ML
 - 💞️ I’m looking to collaborate on Computer Vision and Robotics related projects
 - 📫 How to reach me anbarasank2000@gmail.com
 <!---
