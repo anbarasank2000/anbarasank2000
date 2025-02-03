@@ -3,7 +3,7 @@
 🚀 **Robotics Engineer | Autonomous Systems | AI & Computer Vision**  
 
 I'm passionate about building **intelligent robotic systems** that integrate **automation, perception, and AI**.  
-Currently pursuing my **Master’s in Robotics at the University of Maryland**, I have experience in **ROS (ROS1 & ROS2), Python, C++, Computer Vision, and Autonomous Navigation**.  
+Currently pursuing my **Master’s in Robotics at the University of Maryland**, I have experience in **AI, Autonomous Navigation and Computer Vision**.  
 
 ---
 
