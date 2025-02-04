@@ -10,7 +10,7 @@ Currently pursuing my **Master’s in Robotics at the University of Maryland**, 
 ## 🔧 Skills & Technologies  
 - **Programming:** Python, C++  
 - **Robotic Frameworks:** ROS1, ROS2  
-- **Computer Vision & AI:** OpenCV, Object Detection  
+- **Computer Vision & AI:** Experience in DL frameworks (PyTorch, TensorFlow), object detection, and image processing. 
 - **Simulation & Modeling:** Gazebo, Rviz, SolidWorks  
 - **Algorithms:** SLAM, Motion Planning, Localization  
 
